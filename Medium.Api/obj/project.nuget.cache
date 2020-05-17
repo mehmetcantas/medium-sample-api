@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nvu2h0BFRtc1M0zO6ajpX6rYnGwCWAQy9lh0hfx58faP5fkh/az1mPKwG9hvlwXyTukdHgrvag9LPJ/9LiluzA==",
+  "success": true,
+  "projectFilePath": "/home/can/Desktop/Development/medium-sample-api/Medium.Api/Medium.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/can/.nuget/packages/microsoft.aspnetcore.mvc.versioning/4.1.1/microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
